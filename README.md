@@ -2,6 +2,8 @@
 
 *My name is Julie, I am a 2nd year student from IIM digital school. I like reading, video games and traveling.*
 
+>🌹 I am available everyday from 10am to 8pm.
+
  <img src="gif.gif"/>
 
  <h6 align="center">
@@ -18,6 +20,9 @@
 - 🐱 I am open to talk about anything
 - 💌 How to reach me: julie1480@hotmail.fr
 
+## **Languages 📚**
+- French
+- English
 
 ## **My personal goals 🧭 :**
 

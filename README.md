@@ -2,7 +2,7 @@
 
 *My name is Julie, I am a 2nd year student from IIM digital school. I like reading, video games and traveling.*
 
- <img src="cat.jpg"/>
+ <img src="gif.gif"/>
 
  <h6 align="center">
 
@@ -10,7 +10,6 @@
 ![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=HTML5&color=E34F26)
 ![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=CSS3&color=white)
 ![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&color=blue)
-
 
 </h6>
 

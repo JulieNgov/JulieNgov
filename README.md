@@ -40,6 +40,3 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ngov-Julie-RESTART&layout=compact)](https://github.com/Ngov-Julie-RESTART)
 
-## 🌙 To end my introduction, here's a quote:
-
-> *“I don’t always write code, but when I do, I make sure it’s elegant and efficient. Just kidding, I just hope it works!”*

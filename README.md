@@ -37,7 +37,6 @@
 
 
 ## My stats 📈 :
-[![Julie’s github stats](https://github-readme-stats.vercel.app/api?username=Ngov-Julie-RESTART)](https://github.com/Ngov-Julie-RESTART)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ngov-Julie-RESTART&layout=compact)](https://github.com/Ngov-Julie-RESTART)
 
